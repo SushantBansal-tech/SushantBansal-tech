@@ -1,4 +1,4 @@
-## Hi, I’m @Sushant0124 👋
+## Hi, I’m Sushant 👋
 
 - 👀 I’m interested in Full Stack Development, Competitive Programming, and building robust backend systems. My focus is on solving real-world problems through tech and leading impactful projects.
 - 🌱 I’m currently learning Rust and continuously improving my skills in Data Structures and Algorithms (DSA). I love exploring new technologies and contributing to open-source projects.
